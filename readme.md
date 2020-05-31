@@ -8,4 +8,4 @@ KULLANIMI:
 
 Rehberim.py dosyasını çalıştırarak programa erişim sağlanır.
 
-<img src="https://i.hizliresim.com/CoLAZN.png"/>
+<img src="https://imgur.com/TNZdYEi.png"/>
